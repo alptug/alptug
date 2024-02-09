@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**alptug/alptug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a theoretical & computational physicist by training who loves to research the bridges interconnecting different fields of physics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently a Ph.D. candidate in physics at Debye Institute for Nanomaterial Science, Utrecht University under the supervision of Dr. Laura Filion.
+- ⚪️ My research focuses on colloidal self-assembly of quasicrystals and extends to the whole field of statistical physics.
+- 🔭 I’m currently working on developing machine learning models to analyse simulation and experimental data.
+- 🖥 I'm using C and Python as my main programming languages. Yet, I am always enthusiastic about learning new ones.
+- 🌱 I’m currently learning Rust, WGSL and machine learning architechtures.
+- 👯 I’m looking to collaborate on machine learning in statistical physics.
+- 💬 Ask me about anything related to theoretical and computational aspects of physics.
+- 📫 How to reach me: Send me an e-mail or fill the contect form in my personal webpage.
+- 😄 Pronouns: he/him
